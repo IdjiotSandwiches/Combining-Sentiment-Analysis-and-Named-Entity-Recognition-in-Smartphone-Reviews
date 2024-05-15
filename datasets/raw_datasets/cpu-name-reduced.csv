@@ -1,0 +1,231 @@
+,cpu_name
+0,A15 Bionic   
+3,M1    
+7,A14 Bionic   
+12,Tensor    
+14,A13 Bionic   
+18,Snapdragon 888   
+20,A12X Bionic   
+21,A12Z Bionic   
+25,A12 Bionic   
+33,Dimensity 1200   
+34,Dimensity 1000+   
+36,Snapdragon 865+   
+40,Snapdragon 778G   
+43,Snapdragon 870   
+45,Snapdragon 865   
+56,Snapdragon 855   
+71,Snapdragon 855+   
+74,Snapdragon 860   
+76,A10X Fusion   
+87,Snapdragon 730   
+88,Exynos 990   
+89,A11 Bionic   
+92,Snapdragon 845   
+93,Kirin 9000   
+94,Exynos 980   
+95,Snapdragon 750G   
+96,A10 Fusion   
+97,Snapdragon 765G   
+98,Helio G95   
+103,Kirin 990   
+104,A9X    
+109,Kirin 980   
+111,Exynos 9825   
+112,Snapdragon 720G   
+114,Snapdragon 730G   
+117,Snapdragon 732G   
+131,A9    
+144,Snapdragon 780G   
+145,Snapdragon 670   
+146,Snapdragon 712   
+148,Snapdragon 678   
+150,Exynos 9810   
+151,Snapdragon 675   
+152,Snapdragon 662   
+153,A8X    
+154,Snapdragon 665   
+155,MSM8996 Pro-AB Snapdragon 821 
+156,Snapdragon 835   
+162,A8    
+164,Tegra X1   
+165,Exynos 9611   
+166,Kirin 710   
+168,Snapdragon 660   
+173,Helio G85   
+174,Exynos 8895 Octa  
+176,Helio G80   
+178,Exynos 9610   
+180,Exynos 7420   
+182,Exynos 7884   
+183,Exynos 8890   
+184,Snapdragon 810   
+185,Snapdragon 808   
+187,Exynos 850   
+0,A10 Fusion
+1,A11 Bionic
+2,A12 Bionic
+3,A13 Bionic
+4,A14 Bionic
+5,A15 Bionic
+6,A16 Bionic
+7,A17 Pro
+8,Apple A9
+9,Dimensity 1000 Plus
+10,Dimensity 1050
+11,Dimensity 1080
+12,Dimensity 1100
+13,Dimensity 1200
+14,Dimensity 1300
+15,Dimensity 6020
+16,Dimensity 6080
+17,Dimensity 6100 Plus
+18,Dimensity 6300
+19,Dimensity 700
+20,Dimensity 7020
+21,Dimensity 7025
+22,Dimensity 7030
+23,Dimensity 7050
+24,Dimensity 720
+25,Dimensity 7200
+26,Dimensity 7200 Ultra
+27,Dimensity 800
+28,Dimensity 800U
+29,Dimensity 8020
+30,Dimensity 8050
+31,Dimensity 810
+32,Dimensity 8100
+33,Dimensity 820
+34,Dimensity 8200
+35,Dimensity 8300
+36,Dimensity 900
+37,Dimensity 9000
+38,Dimensity 9000 Plus
+39,Dimensity 920
+40,Dimensity 9200
+41,Dimensity 9200 Plus
+42,Dimensity 930
+43,Dimensity 9300
+44,Exynos 1280
+45,Exynos 1330
+46,Exynos 1380
+47,Exynos 1480
+48,Exynos 2100
+49,Exynos 2200
+50,Exynos 2400
+51,Exynos 7870
+52,Exynos 7884B
+53,Exynos 7885
+54,Exynos 7904
+55,Exynos 850
+56,Exynos 8890
+57,Exynos 8895
+58,Exynos 9610
+59,Exynos 9611
+60,Exynos 980
+61,Exynos 9810
+62,Exynos 9820
+63,Exynos 9825
+64,Exynos 990
+65,Google Tensor
+66,Helio A22
+67,Helio G25
+68,Helio G35
+69,Helio G36
+70,Helio G37
+71,Helio G70
+72,Helio G80
+73,Helio G85
+74,Helio G88
+75,Helio G90T
+76,Helio G95
+77,Helio G96
+78,Helio G99
+79,Helio P22
+80,Helio P35
+81,Helio P60
+82,Helio P65
+83,Helio P70
+84,Helio P90
+85,Helio P95
+86,Kirin 659
+87,Kirin 710
+88,Kirin 710A
+89,Kirin 710F
+90,Kirin 810
+91,Kirin 9000
+92,Kirin 9000S
+93,Kirin 9010
+94,Kirin 960
+95,Kirin 970
+96,Kirin 980
+97,Kirin 990 (5G)
+98,MediaTek MT6737
+99,Snapdragon 4 Gen 1
+100,Snapdragon 4 Gen 2
+101,Snapdragon 430
+102,Snapdragon 435
+103,Snapdragon 439
+104,Snapdragon 450
+105,Snapdragon 460
+106,Snapdragon 480
+107,Snapdragon 480 Plus
+108,Snapdragon 6 Gen 1
+109,Snapdragon 625
+110,Snapdragon 630
+111,Snapdragon 632
+112,Snapdragon 636
+113,Snapdragon 660
+114,Snapdragon 662
+115,Snapdragon 665
+116,Snapdragon 670
+117,Snapdragon 675
+118,Snapdragon 678
+119,Snapdragon 680
+120,Snapdragon 685
+121,Snapdragon 690
+122,Snapdragon 695
+123,Snapdragon 7 Gen 1
+124,Snapdragon 7 Gen 3
+125,Snapdragon 7 Plus Gen 2
+126,Snapdragon 7 Plus Gen 3
+127,Snapdragon 710
+128,Snapdragon 712
+129,Snapdragon 720G
+130,Snapdragon 730
+131,Snapdragon 730G
+132,Snapdragon 732G
+133,Snapdragon 750G
+134,Snapdragon 765G
+135,Snapdragon 778G
+136,Snapdragon 778G Plus
+137,Snapdragon 780G
+138,Snapdragon 782G
+139,Snapdragon 7s Gen 2
+140,Snapdragon 8 Gen 1
+141,Snapdragon 8 Gen 2
+142,Snapdragon 8 Gen 3
+143,Snapdragon 8 Plus Gen 1
+144,Snapdragon 820
+145,Snapdragon 821
+146,Snapdragon 835
+147,Snapdragon 845
+148,Snapdragon 855
+149,Snapdragon 855 Plus
+150,Snapdragon 860
+151,Snapdragon 865
+152,Snapdragon 865 Plus
+153,Snapdragon 870
+154,Snapdragon 888
+155,Snapdragon 888 Plus
+156,Snapdragon 8s Gen 3
+157,Tensor G2
+158,Tensor G3
+159,Tiger T610
+160,Tiger T612
+161,Tiger T616
+162,Tiger T618
+163,Tiger T700
+164,Unisoc SC9863A
+165,Unisoc T606
+166,Unisoc T820
